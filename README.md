@@ -54,7 +54,7 @@ Add songs to a user's playlist.
 Automatically remove the oldest song if the playlist is full.
 Retrieve a user's recently played songs.
 
-## How to use
+## Project run
 To use the SongsList utility, follow these steps:
 
 1.Include the SongsList.java file in your Java project.
