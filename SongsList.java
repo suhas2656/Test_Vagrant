@@ -6,7 +6,8 @@
  * *      Project         : TestVagrant Assignment
  * *      Authors         : Suhas
  * *      E-Mail          : Suhashgs.58@gmail.com
- * *      Description     : Utility class for date time operations
+ * *      Description     : The SongsList class is a Java utility class designed to manage and maintain playlists for multiple users. 
+                              It allows users to add songs to their playlists and retrieve their recently played songs.
  * * ******************************************************************
  * * ******************************************************************
  * * Date           |  Version    |  Author            |  Reviewer         |  Reason for Change                                             |
