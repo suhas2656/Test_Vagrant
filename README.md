@@ -23,16 +23,16 @@ To create a new SongsList object, you need to provide the maximum number of song
 
 Example:
 
-java
-Copy code
 SongsList user1PlayedSongs = new SongsList(3);
 SongsList user2PlayedSongs = new SongsList(3);
+
 Adding Songs:
 
 You can add songs to a user's playlist using the addSong method. It takes the user's name and the song to be added.
 
 Example:
 user1PlayedSongs.addSong("User1", "Song 1");
+
 Getting Recently Played Songs:
 
 Use the getRecentlyPlayed method to retrieve a user's recently played songs. It takes the user's name and returns a linked list of songs.
